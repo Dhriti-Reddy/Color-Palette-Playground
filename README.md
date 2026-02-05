@@ -1,5 +1,5 @@
 ﻿# Color-Palette-Playground
- ## 🚀 Live Demo
-https://color-palette-playground-plum.vercel.app/
+
+
 
 
